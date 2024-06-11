@@ -15,7 +15,7 @@ Dissertation: <https://ayazmehmet.github.io/website-repository/Ayaz-Towards_opti
 Defense:
 
 ### Research papers
-- How should we tax capital?  
+- How should we tax capital? Interaction between capital taxes and saving motives  
 Paper: <https://ayazmehmet.github.io/website-repository/capital_taxes_saving_motives-paper.pdf>  
 Presentation:
 
@@ -25,5 +25,5 @@ Presentation:
 
 - Who should bear the burden of COVID-19-related taxation?  
 Paper: <https://ayazmehmet.github.io/website-repository/covid19_progressivity-paper.pdf>  
-Published: <https://doi.org/10.1016/j.euroecorev.2023.104381>
+Published: <https://doi.org/10.1016/j.euroecorev.2023.104381>  
 Presentation:
