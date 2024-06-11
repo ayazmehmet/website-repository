@@ -10,7 +10,7 @@ This repository is live at <https://ayazmehmet.github.io/website-repository/>
 <https://ayazmehmet.github.io/website-repository/cv_ayaz.pdf>
 
 ### Thesis
-- Towards optimal taxation  
+- Towards optimal taxation: Designing tax systems and navigating fiscal challenges  
 Dissertation: <https://ayazmehmet.github.io/website-repository/Ayaz-Towards_optimal_taxation.pdf>  
 Defense:
 
