@@ -11,8 +11,7 @@ This repository is live at <https://ayazmehmet.github.io/website-repository/>
 
 ### Thesis
 - Towards optimal taxation  
-Dissertation: <https://ayazmehmet.github.io/website-repository/Ayaz-Towards_optimal_taxation.pdf>
-
+Dissertation: <https://ayazmehmet.github.io/website-repository/Ayaz-Towards_optimal_taxation.pdf>  
 Defense:
 
 ### Research papers
