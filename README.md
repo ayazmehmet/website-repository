@@ -11,8 +11,8 @@ This repository is live at <https://ayazmehmet.github.io/website-repository/>
 
 ### Thesis
 - Towards optimal taxation: Designing tax systems and navigating fiscal challenges  
-Dissertation: <https://ayazmehmet.github.io/website-repository/Ayaz-Towards_optimal_taxation.pdf>  
-Defense:
+Dissertation: <https://ayazmehmet.github.io/website-repository/Ayaz_Mehmet_Dissertation.pdf>  
+Defense: <https://ayazmehmet.github.io/website-repository/Ayaz_Mehmet_Defense.pdf>
 
 ### Research papers
 - How should we tax capital? Interaction between capital taxes and saving motives  
