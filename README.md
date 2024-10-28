@@ -9,6 +9,9 @@ This repository is live at <https://ayazmehmet.github.io/website-repository/>
 - Curriculum Vitae
 <https://ayazmehmet.github.io/website-repository/cv_ayaz.pdf>
 
+- Resume
+<https://ayazmehmet.github.io/website-repository/resume.pdf>
+
 ### Thesis
 - Towards optimal taxation: Designing tax systems and navigating fiscal challenges  
 Dissertation: <https://ayazmehmet.github.io/website-repository/Ayaz_Mehmet_Dissertation.pdf>  
