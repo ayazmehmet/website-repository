@@ -24,9 +24,9 @@ Presentation:
 
 - Joint taxation of income and wealth  
 Paper: <https://ayazmehmet.github.io/website-repository/joint_taxation-paper.pdf>  
-Presentation:
+Presentation: <https://ayazmehmet.github.io/website-repository/joint_taxation-slides.pdf>  
 
 - Who should bear the burden of COVID-19-related taxation?  
 Paper: <https://ayazmehmet.github.io/website-repository/covid19_progressivity-paper.pdf>  
 Published: <https://doi.org/10.1016/j.euroecorev.2023.104381>  
-Presentation:
+Presentation: <https://ayazmehmet.github.io/website-repository/covid19_progressivity-slides.pdf>
